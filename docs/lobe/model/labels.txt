@@ -1,0 +1,4 @@
+animal
+faces
+fruit
+shoes
